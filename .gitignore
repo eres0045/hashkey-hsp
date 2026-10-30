@@ -1,0 +1,8 @@
+hidden_files/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+.env
+.env.local

@@ -1,0 +1,5 @@
+# Local-chain demo + end-to-end tests only (never needed for the gateway code).
+web3
+eth-tester
+py-evm
+py-solc-x

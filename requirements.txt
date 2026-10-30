@@ -1,0 +1,2 @@
+# Runtime (gateway client, agents, executor): stdlib + eth-account only.
+eth-account>=0.14
